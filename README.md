@@ -11,7 +11,7 @@ The download link and set-up instructions for the dataset can be found at the st
 
 Given the limited computational capacity of the free instance of Google Colab the CNN gives only limited improvements over a simple bicubic interpolation and the GANs training architectures do not improve the results because we did not have time to find the correct hyperparameteres (as GAN training is very sensitive to hyperparameters). Output images can be seen in the Colab Notebook.
 
-## [Link to the Colab Notebook](https://colab.research.google.com/drive/1eJd3AWKTSNFvVlCSA4_Yu4CN3htFZbot?usp=sharing)
+## [Link to the Colab Notebook](https://colab.research.google.com/drive/1IJuIejvZjsIZWPFvIEOMKhL9-37MO9-P?usp=sharing)
 
 ## Authors
 
